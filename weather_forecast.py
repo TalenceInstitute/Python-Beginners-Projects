@@ -1,10 +1,3 @@
-'''
-python3 weather_forecast.py 
-Enter your location (city name): New-York City
-Enter your OpenWeatherMap API key: cd38d998a0e66fc9e6eb372373a0732a
-Latitude: 40.7127281
-'''
-
 import requests
 
 # Function to retrieve the latitude and longitude for a given location using the OpenWeatherMap API
